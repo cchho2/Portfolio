@@ -1,1 +1,49 @@
+* {
+	box-sizing: border-box;
+}
 
+body {
+  margin: 0;
+  background-image: url("https://gdj-inr5u0ip5pewom.stackpathdns.com/wp-content/uploads/2012/08/minimal-background-pattern-wordpress-16.jpg");
+}
+
+.intro {
+  text-align: center;
+  font-family: Monaco, monospace;
+  padding: 10px;
+  margin-right: 100px;
+  margin-left: 100px;
+  font-size: 1.8em;
+}
+
+.modules {
+  padding: 30px;
+  font-size: 1.3em;
+  text-align: left;
+  font-family: Helvetica, sans-serif;
+}
+
+.module {
+  text-align: left;
+  padding: 25px;
+  float: left;
+  width: 100%;
+}
+
+.mod h3 {
+  font-family: Monaco, monospace;
+  font-size: 1.5em;
+}
+
+.mod p {
+  overflow: hidden;
+}
+
+#pics {
+	float: left;
+	margin-right: 10px;
+	margin-top: 40px;
+	border: 5px solid;
+  border-color: rgb(168 162 158);
+	width: 400px;
+}
